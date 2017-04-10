@@ -1,0 +1,3 @@
+Enter-PSSession -ComputerName {computername} -Credentials {username}
+C:\vv\gh\example-remote-powershell\src\ExampleRemotePowershell.Server\bin\Debug\ExampleRemotePowersshell.Server.exe
+Exit-PSSession
